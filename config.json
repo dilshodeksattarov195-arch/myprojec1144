@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperuave",
+        "uuid": 996424,
+        "checksum": "o1rgrv"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
